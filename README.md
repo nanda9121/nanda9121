@@ -1,4 +1,4 @@
-# Hi, I'm Nanda 👋
+# Hi, I'm Nanda Kishore👋
 
 🎓 Computer Science Student  
 💻 Full-Stack Developer | Python   
