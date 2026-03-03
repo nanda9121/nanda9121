@@ -72,7 +72,6 @@ A visually engaging food-themed web application built using HTML, CSS, and JavaS
 🧩 Tech Stack
 
 HTML5 (structure & semantic markup)
-
 CSS3 (responsive styling & layout)
 ---
 
