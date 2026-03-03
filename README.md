@@ -54,7 +54,26 @@ A production-style web application built with Flask and SQLAlchemy that allows u
 🔗 View Project:  
 http://127.0.0.1:5000
 
-## Foodmunch
+## TapFeast – Interactive Food App (Frontend Web Project)
+A visually engaging food-themed web application built using HTML, CSS, and JavaScript, focused on delivering an intuitive UI for browsing menu items and exploring content. This project showcases responsive design principles, semantic markup, and dynamic styling to create a clean and user-friendly interface.
+
+🔍 Key Features
+
+📱 Responsive UI: Designed to adapt seamlessly across mobile, tablet, and desktop screen sizes.
+
+🍽️ Intuitive Food Display: Presents food items in aesthetic layouts using CSS and HTML.
+
+🎨 Custom Styling: Uses handcrafted CSS for layout, typography, and color scheme.
+
+⚡ Interactive Elements: Hover effects and interactive layout elements to enhance user experience.
+
+🧠 Front-end Focused: Built entirely with HTML, CSS, and JavaScript (no backend), demonstrating solid understanding of core web technologies.
+
+🧩 Tech Stack
+
+HTML5 (structure & semantic markup)
+
+CSS3 (responsive styling & layout)
 ---
 
 ## 📚 Currently Learning
