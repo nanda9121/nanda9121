@@ -38,7 +38,7 @@ Currently seeking internship opportunities to contribute and grow as a developer
 
 ---
 
-## 🚗 Featured Project
+## 🚗 Featured Projects
 
 ### AutoSphere – Full-Stack Automotive Discovery Platform
 
@@ -54,6 +54,7 @@ A production-style web application built with Flask and SQLAlchemy that allows u
 🔗 View Project:  
 http://127.0.0.1:5000
 
+## Foodmunch
 ---
 
 ## 📚 Currently Learning
