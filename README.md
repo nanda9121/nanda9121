@@ -26,10 +26,14 @@ Currently seeking internship opportunities to contribute and grow as a developer
 
 -->Backend
 - SQLite
+- Node.js
 
 -->Frontend
 - Bootstrap 5
-- Jinja2 Templating
+- JavaScript
+- HTML5
+- CSS3
+- React.js
 
 -->Tools
 - Git
@@ -50,9 +54,6 @@ A production-style web application built with Flask and SQLAlchemy that allows u
 - Related vehicle recommendations
 - Modular backend architecture
 - Responsive premium UI
-
-🔗 View Project:  
-http://127.0.0.1:5000
 
 ## TapFeast – Interactive Food App (Frontend Web Project)
 A visually engaging food-themed web application built using HTML, CSS, and JavaScript, focused on delivering an intuitive UI for browsing menu items and exploring content. This project showcases responsive design principles, semantic markup, and dynamic styling to create a clean and user-friendly interface.
