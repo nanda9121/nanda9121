@@ -20,7 +20,7 @@ Git · GitHub · VS Code
 
 ## Featured Projects
 
-### [Flam AI Trip Planner](https://github.com/nanda9121/Flam-AI-trip-planner)
+### [AI Trip Planner](https://github.com/nanda9121/Flam-AI-trip-planner)
 An AI-powered travel planner that generates editable itineraries and displays location photos with source attribution.
 
 **Next.js · React · TypeScript · Gemini API**
