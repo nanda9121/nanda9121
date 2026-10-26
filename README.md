@@ -1,103 +1,42 @@
-# Hi, I'm Nanda Kishore👋
+# Nanda Kishore
 
-🎓 Computer Science Student  
-💻 Full-Stack Developer | Python   
-🚀 Backend-Focused | Database & API Development Enthusiast  
+**Computer Science Student · Full-Stack Developer · Backend & Generative AI Enthusiast**
 
----
+I build practical web applications with a focus on clean backend architecture, APIs, databases, and responsive user experiences. I’m expanding my skills in **Data Structures & Algorithms (DSA)**, **C++**, and **Generative AI**.
 
-## 👨‍💻 About Me
+## Skills
 
-I am a passionate full-stack developer focused on building production-style web applications using Python and Flask.
+**Languages**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-I enjoy designing clean backend architectures, implementing relational database systems, and developing scalable, structured web applications. I continuously work on improving my backend development skills and understanding of database design and REST APIs.
+**Development**  
+React · Flask · Node.js · REST APIs · HTML · CSS · Bootstrap
 
-Currently seeking internship opportunities to contribute and grow as a developer.
+**Data & AI**  
+Data Structures & Algorithms · Generative AI · Gemini API · SQLite · SQLAlchemy
 
----
+**Tools**  
+Git · GitHub · VS Code
 
-## 🛠️ Tech Stack
+## Featured Projects
 
--->Languages
-- Python
-- JavaScript
-- HTML5
-- CSS3
+### [Flam AI Trip Planner](https://github.com/nanda9121/Flam-AI-trip-planner)
+An AI-powered travel planner that generates editable itineraries and displays location photos with source attribution.
 
--->Backend
-- SQLite
-- Node.js
+**Next.js · React · TypeScript · Gemini API**
 
--->Frontend
-- Bootstrap 5
-- JavaScript
-- HTML5
-- CSS3
-- React.js
+### AutoSphere — Automotive Discovery Platform
+A Flask and SQLAlchemy application for exploring vehicles, with search, reviews, ratings, and recommendations.
 
--->Tools
-- Git
-- GitHub
-- VS Code
+### TapFeast — Interactive Food App
+A responsive frontend project built with HTML, CSS, and JavaScript.
 
----
+## Currently Learning
 
-## 🚗 Featured Projects
+- Data Structures & Algorithms with C++
+- Generative AI and AI-powered application development
+- Backend architecture and database optimization
 
-### AutoSphere – Full-Stack Automotive Discovery Platform
+## Connect
 
-A production-style web application built with Flask and SQLAlchemy that allows users to explore luxury vehicles with:
-
-- Dynamic brand & model search
-- Review & star rating system
-- Rating breakdown analytics
-- Related vehicle recommendations
-- Modular backend architecture
-- Responsive premium UI
-
-## TapFeast – Interactive Food App (Frontend Web Project)
-A visually engaging food-themed web application built using HTML, CSS, and JavaScript, focused on delivering an intuitive UI for browsing menu items and exploring content. This project showcases responsive design principles, semantic markup, and dynamic styling to create a clean and user-friendly interface.
-
-🔍 Key Features
-
-📱 Responsive UI: Designed to adapt seamlessly across mobile, tablet, and desktop screen sizes.
-
-🍽️ Intuitive Food Display: Presents food items in aesthetic layouts using CSS and HTML.
-
-🎨 Custom Styling: Uses handcrafted CSS for layout, typography, and color scheme.
-
-⚡ Interactive Elements: Hover effects and interactive layout elements to enhance user experience.
-
-🧠 Front-end Focused: Built entirely with HTML, CSS, and JavaScript (no backend), demonstrating solid understanding of core web technologies.
-
-🧩 Tech Stack
-
--HTML5 (structure & semantic markup)
--CSS3 (responsive styling & layout)
-
----
-
-## 📚 Currently Learning
-
-- Advanced backend architecture
-- API optimization
-- Database performance improvement
-- Scalable web application design
-
----
-
-## 🎯 Career Goal
-
-To become a strong full-stack developer with deep backend expertise and the ability to design scalable, production-level systems.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/nanda-kishore-29b43436a
-- GitHub: https://github.com/nanda9121
-- Portfolio: https://nanda9121.github.io/portfolio/
-
----
-
-⭐ Consistently building. Consistently improving.
+[LinkedIn](https://www.linkedin.com/in/nanda-kishore-29b43436a) · [GitHub](https://github.com/nanda9121) · [Portfolio](https://nanda9121.github.io/portfolio/)
